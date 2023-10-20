@@ -9,4 +9,4 @@
 
 
 ### 作業繳交區
-[HW1](HW1.py)
+[HW1]("https://github.com/walilaywa/LATIA112-1/blob/main/HW1.py")
