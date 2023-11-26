@@ -16,3 +16,11 @@
 
 [HW2_程式碼](https://github.com/walilaywa/LATIA112-1/blob/main/HW2.py)
 程式二真的做不太出來(嘆氣~但至少努力過了)
+
+[HW3_程式碼](https://github.com/walilaywa/LATIA112-1/blob/main/app.py)
+
+備註:我的程式還是有加上分數跟中文的那個部分喔
+
+![破不了的BUG-我灌不進去的模組](./IC20231127_1.jpg)
+
+![還是有之前的成功照片](./IC20231127_2.jpg)
