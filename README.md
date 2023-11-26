@@ -21,6 +21,6 @@
 
 備註:我的程式還是有加上分數跟中文的那個部分喔
 
-![破不了的BUG-我灌不進去的模組](./IC20231127_1.jpg)
+![破不了的BUG-我灌不進去的模組](https://github.com/walilaywa/LATIA112-1/blob/main/PIC20231127_1.jpg)
 
-![還是有之前的成功照片](./IC20231127_2.jpg)
+![還是有之前的成功照片](https://github.com/walilaywa/LATIA112-1/blob/main/PIC20231127_2.jpg)
